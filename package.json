@@ -1,0 +1,15 @@
+{
+  "name": "vue3-element-organization",
+  "version": "1.0.0",
+  "description": "基于vue3+element-plus+ts的组织架构业务组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
